@@ -9,7 +9,7 @@ Tired of a messy Downloads folder? This tool sorts everything automatically.
 
 ## Download
 
-👉 [Download Lz.exe](https://github.com/OPIUMGOD/file-organizer/releases/latest)
+👉 [Download Lz.exe](https://github.com/OPIUMGOD/file-organizer/releases/tag/v2.0)
 
 > SmartScreen might flag it — hit **"More info" → "Run anyway"**  
 > It's a false positive. Nuitka-compiled Python always triggers this without a code signing cert.
