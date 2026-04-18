@@ -9,7 +9,7 @@ Tired of a messy Downloads folder? This tool sorts everything automatically.
 
 ## Download
 
-[Download Lz.exe](https://github.com/OPIUMGOD/file-organizer/releases/latest)
+👉 [Download Lz.exe](https://github.com/OPIUMGOD/file-organizer/releases/latest)
 
 > SmartScreen might flag it — hit **"More info" → "Run anyway"**  
 > It's a false positive. Nuitka-compiled Python always triggers this without a code signing cert.
@@ -33,7 +33,7 @@ Folders get analyzed too. If 60%+ of files are one type, the whole folder moves.
 2. Hit **Start**
 3. Done
 
-Enable **Recursive scan** if you want it to go through subfolders too.  
+**Recursive scan** — enable this if you want it to go through subfolders too.  
 A `log.txt` gets saved to your Downloads after every run.
 
 ---
